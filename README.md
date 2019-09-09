@@ -1,16 +1,38 @@
 
+PROGRAMACIÓN
 
-![snake.jpg]
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket 
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
-           
-    
-----
+La programación es un proceso que se utiliza para idear y ordenar las acciones que se realizarán en el marco de un proyecto; al anuncio o espectáculo; a la preparación de máquinas para que cumplan con una cierta tarea en un momento determinado; a la elaboración de programas para la resolución de problemas mediante ordenadores, y a la preparación de los datos 
+necesarios para obtener una solución de un problema.
 
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
+LENGUAJE 
+
+El lenguaje de programación es un lenguaje formal que proporciona una serie de instrucciones que permiten a un programador escribir secuencias de órdenes y algoritmos a modo de controlar el comportamiento físico y lógico de una computadora con el objetivo de que produzca diversas clases de datos. A todo este conjunto de órdenes y datos escritos mediante un lenguaje de programación se le conoce como programa.
+
+ALGORITMO
+
+La programación es un proceso que se utiliza para idear y ordenar las acciones que se realizarán en el marco de un proyecto; al anuncio o espectáculo; a la preparación de máquinas para que cumplan con una cierta tarea en un momento determinado; a la elaboración de programas para la resolución de problemas mediante ordenadores, y a la preparación de los datos necesarios para obtener una solución de un problema.
+
+**PUNTO A CONSEGUIR*(METAS)*
+
+La programación debe perseguir la obtención de programas de calidad. Para ello se establece una serie de factores que determinan la calidad de un programa. Algunos de los factores de calidad más importantes son los siguientes:
+
+*CORRECTITUD*
+
+ Un programa es correcto si hace lo que debe hacer tal y como se estableció en las fases previas a su desarrollo. Para determinar si un programa hace lo que debe, es muy importante especificar claramente que debe hacer el programa antes de 
+su desarrollo y, una vez acabado, compararlo con lo que realmente hace.
+
+CLARIDAD
+
+Es muy importante que el programa sea lo más claro y legible posible, para facilitar tanto su desarrollo como su posterior mantenimiento. Al elaborar un programa se debe intentar que su estructura sea sencilla y coherente, así como cuidar el estilo de programación. De esta forma se ve facilitado el trabajo del programador, tanto en la fase de creación como en las fases posteriores de corrección de errores, ampliaciones, modificaciones, etc. Fases que pueden ser realizadas incluso por otro programador, con lo cual la claridad es aún más necesaria para que otros puedan continuar el trabajo fácilmente. Algunos programadores llegan incluso a utilizar Arte ASCII para delimitar secciones de código; una práctica común es realizar aclaraciones en el código fuente utilizando líneas de comentarios. Contrariamente, algunos por diversión o para impedirle un análisis cómodo a otros programadores, recurren al uso de código ofuscado.
+
+EFICIENCIA
+
+ Se trata de que el programa, además de realizar aquello para lo que fue creado (es decir, que sea correcto), lo haga 
+ gestionando de la mejor forma posible los recursos que utiliza. Normalmente, al hablar de eficiencia de un programa, se suele hacer referencia al tiempo que tarda en realizar la tarea para la que ha sido creado y a la cantidad de memoria que necesita, pero hay otros recursos que también pueden ser de consideración para mejorar la eficiencia de un programa, dependiendo de su naturaleza (espacio en disco que utiliza, tráfico en la red que genera, etc.).
+
+ALGORITMOS COTIDIANOS
+
+Los algoritmos son el objeto de estudio de la algoritmia. En la vida cotidiana, se emplean algoritmos frecuentemente para resolver problemas, en términos de programación, un algoritmo es una secuencia de pasos lógicos que permiten solucionar un problema.
 
 ----
 
