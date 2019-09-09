@@ -10,7 +10,8 @@ Plantilla generica de todo repositorio.
 3. Git comandos como glosario https://www.atlassian.com/git/glossary
 4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
 5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
-6.atari breakout. https://www.google.com.mx/search?q=atari+breakout&sxsrf=ACYBGNRcJBqEQWEJBZy1ansqTeny7XTDFA:1568065141363&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQ-PDt2cTkAhVGqZ4KHRfeBkkQ_AUIEigB&biw=1600&bih=789
+           
+    
 ----
 
 Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
@@ -25,4 +26,5 @@ https://likegeeks.com/main-linux-commands-easy-guide/
 Tips de Linux para ser productivos
 https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
 
+6.atari breakout. https://www.google.com.mx/search?q=atari+breakout&sxsrf=ACYBGNRcJBqEQWEJBZy1ansqTeny7XTDFA:1568065141363&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQ-PDt2cTkAhVGqZ4KHRfeBkkQ_AUIEigB&biw=1600&bih=789
 
