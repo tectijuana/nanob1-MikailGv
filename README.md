@@ -1,6 +1,6 @@
 
 
-![](snake.jpg)
+![](snake.jepg)
 1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
 2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket 
 3. Git comandos como glosario https://www.atlassian.com/git/glossary
